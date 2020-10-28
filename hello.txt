@@ -1,7 +1,4 @@
-fenix dwg
-hello world!
-daskld;as
-douglas
-fklads;f
-我男女通吃，哈哈哈哈！
-傻吊！
+hello world
+welcome to china 
+welcome to github
+
